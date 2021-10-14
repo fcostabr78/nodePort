@@ -120,5 +120,5 @@ Desde o navegador chamar a URL do IP_EXTERNO:<NodePort> do nó que não tem o la
   
 <img src='https://objectstorage.us-ashburn-1.oraclecloud.com/n/idsvh8rxij5e/b/imagens_git/o/apache.png'/>
   
- 
+<hr>
 :smiling_face_with_three_hearts:
